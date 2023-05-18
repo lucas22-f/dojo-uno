@@ -1,5 +1,3 @@
-Por supuesto, puedo ayudarte a mejorar la documentación en formato Markdown. A continuación, te presento la versión mejorada del documento:
-
 # Proyecto 1: Semáforo con Buzzer
 
 ## Información del Proyecto
